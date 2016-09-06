@@ -17,4 +17,4 @@ La secuencia de temas sugerida es:
 * [Limpieza de datos II](https://github.com/rsotoc/pattern-recognition/blob/master/Limpieza%20de%20datos%20II.ipynb). Continuación al tema de limpieza de datos. Se discuten el tratamiento a *valores atípicos* y *valores inconsistentes*.
 * [Clustering I](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20I.ipynb). Introducción al tema y discusión del tema de las *medidas de distanci*a (TODO: omití la discusión de medidas de semejanza a partir de las medidas de distancia :-S). 
 * [Clustering II](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20II.ipynb). Discusión de los *dendrogramas*: interpretación y construcción.
-* K-Means... [ ](images/in_process.jpg)
+* K-Means... ![ ](images/in_process.jpg)

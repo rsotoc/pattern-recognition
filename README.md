@@ -6,7 +6,7 @@
 
 Este curso ofrece una introducción al área de Reconocimiento de Patrones, con una orientación hacia Data Science, Soft Computing y Minería de opiniones. 
 
-Este es el curso que actualmente imparto en la Lic. en Ciencias de la Computación en la [Universidad de Sonora](www.uson.mx). Los procedimientos están hechos en Python. No se asume un conocimiento profundo, pero tampoco hay una introducción al tema (encontrarán información por todas partes y en particular en el repositorio vecino de [Julio Waissman](https://github.com/juliowaissman/libretasRdP)).
+Este es el curso que actualmente imparto en la Lic. en Ciencias de la Computación en la [Universidad de Sonora](www.uson.mx). Los procedimientos están hechos en Python. No se asume un conocimiento profundo del lenguaje, pero tampoco hay una introducción al tema (encontrarán información por todas partes y en particular en el repositorio vecino de [Julio Waissman](https://github.com/juliowaissman/libretasRdP)).
 Iremos agregando lecciónes conforme avance el curso. 
 
 La secuencia de temas sugerida es:

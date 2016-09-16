@@ -17,6 +17,6 @@ La secuencia de temas sugerida es:
 * [Limpieza de datos II](https://github.com/rsotoc/pattern-recognition/blob/master/Limpieza%20de%20datos%20II.ipynb). Continuación al tema de limpieza de datos. Se discuten el tratamiento a *valores atípicos* y *valores inconsistentes*.
 * [Clustering I](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20I.ipynb). Introducción al tema de agrupamiento y discusión del tema de las *medidas de distancia*. 
 * [Clustering II](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20II.ipynb). Discusión de los *dendrogramas*: interpretación y construcción.
-* [Clustering III](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20III.ipynb). Presentación de la técnica de agrupamiento $k-means$. 
+* [Clustering III](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20III.ipynb). Presentación de la técnica de agrupamiento *k-means*. 
 * [Clustering IV](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20IV.ipynb). Presentación de la técnica de agrupamiento *ISODATA*.  
 * Mas... ![ ](images/in_process.jpg)

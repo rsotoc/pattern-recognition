@@ -1,0 +1,257 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Reconocimiento de patrones: Clasificación\n",
+    "### Ramón Soto C. [(rsotoc@moviquest.com)](mailto:rsotoc@moviquest.com/)\n",
+    "![ ](images/blank.png)\n",
+    "![agents](images/binary_data_under_a_magnifying.jpg)\n",
+    "[ver en nbviewer](http://nbviewer.ipython.org/github/rsotoc/pattern-recognition/blob/master/Clasificación%20II.ipynb)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<hr style=\"border-width: 2px;\">\n",
+    "\n",
+    "## Clasificación de textos / Minería de opiniones\n",
+    "\n",
+    "La **clasificación de textos** es un área del *procesamiento de lenguaje natural* que ha ganado gran importancia en los útlimos años debido a la *minería de opiniones* (o *análisis de sentimientos*).\n",
+    "\n",
+    "\n",
+    "### Ejemplo simple de clasificador Bernoulli bayesiano ingenuo\n",
+    "\n",
+    "Los dos modelos más utilizados del clasificador bayesiano ingenuo para clasificación de textos son el modelo de Bernoulli y el modelo multinomial con pesos tf–idf.\n",
+    "\n",
+    "En el siguiente ejemplo, se utiliza la base de datos de revisiones de películas, disponible directamente del NLTK. A partir de ella se crea una [bolsa de palabras](https://en.wikipedia.org/wiki/Bag-of-words_model) con las 1000 palabras más comunes (sin depurar, esto es, sin eliminar palabras de paro ni símbolos de puntuación) en toda la colección. Se utiliza un clasificador Bernoulli para clasificar revisiones de películas calificadas postivamente o negativamente."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "import nltk\n",
+    "import numpy as np\n",
+    "import pandas as pd\n",
+    "from sklearn.naive_bayes import BernoulliNB, MultinomialNB\n",
+    "from nltk.corpus import movie_reviews \n",
+    "from bs4 import BeautifulSoup\n",
+    "import os\n",
+    "\n",
+    "os.chdir('Data sets/Movies Reviews')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "#Regresa el vector de características de un documento\n",
+    "def document_features(document): \n",
+    "    document_words = set(document) \n",
+    "    features = []\n",
+    "    for word in word_features:\n",
+    "        if (word in document_words) :\n",
+    "            features.append(1)\n",
+    "        else :\n",
+    "            features.append(0)\n",
+    "    return features\n",
+    "\n",
+    "# Colección de textos sobre revisiones de películas. \n",
+    "documents = [(list(movie_reviews.words(fileid)), category) \n",
+    "             for category in movie_reviews.categories()\n",
+    "             for fileid in movie_reviews.fileids(category)]\n",
+    "np.random.shuffle(documents)\n",
+    "print(\"La base de datos contiene {} registros de texto, cada uno con {} componentes.\"\n",
+    "      .format(len(documents), len(documents[0]))) \n",
+    "negids = movie_reviews.fileids('neg')\n",
+    "posids = movie_reviews.fileids('pos')\n",
+    "print(\"{} documentos son revisiones positivas y {} revisiones negativas\"\n",
+    "     .format(len(negids), len(posids)))\n",
+    "print(\"\\nCada documento tiene la siguiente estructura:\\n\", documents[0])\n",
+    "print(\"\\nO bien:\\n({}, {})\\n\".format([\" \".join(documents[0][0])], documents[0][1]) )\n",
+    "\n",
+    "# Construcción de la Bolsa de palabras\n",
+    "all_words = nltk.FreqDist(w.lower() for w in movie_reviews.words())\n",
+    "word_features = list(all_words)[:4000]\n",
+    "\n",
+    "# Vectores de características de la colección de documentos\n",
+    "featuresets = [document_features(d) for (d, c) in documents]\n",
+    "train_set, test_set = featuresets[100:], featuresets[:100]\n",
+    "targetsets = [c for (d,c) in documents]\n",
+    "train_targetset, test_targetset = targetsets[100:], targetsets[:100]\n",
+    "\n",
+    "# Entrenamiento de un clasificador Bernouilli Bayes ingenuo\n",
+    "clfB = BernoulliNB(alpha=1.0, class_prior=None, fit_prior=False)\n",
+    "clfB.fit(train_set, train_targetset)\n",
+    "\n",
+    "# Pruebas del clasificador\n",
+    "class_predict_train = clfB.predict(train_set)\n",
+    "fails_train = np.sum(train_targetset  != class_predict_train)\n",
+    "print(\"Puntos mal clasificados en el conjunto de entrenamiento: {} de {} ({}%)\\n\"\n",
+    "      .format(fails_train, len(train_set), 100*fails_train/len(train_set)))\n",
+    "class_predict_test = clfB.predict(test_set)\n",
+    "fails_test = np.sum(test_targetset  != class_predict_test)\n",
+    "print(\"Puntos mal clasificados en el conjunto de entrenamiento: {} de {} ({}%)\\n\"\n",
+    "      .format(fails_test, len(test_set), 100*fails_test/len(test_targetset)))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Puntos mal clasificados en el conjunto de entrenamiento: 7136 de 24900 (28.65863453815261%)\n",
+      "\n",
+      "Puntos mal clasificados en el conjunto de entrenamiento: 30 de 100 (30.0%)\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "#Regresa el vector de características de un documento\n",
+    "def document_features(document): \n",
+    "    document_words = set(document) \n",
+    "    features = []\n",
+    "    for word in word_features:\n",
+    "        if (word in document_words) :\n",
+    "            features.append(1)\n",
+    "        else :\n",
+    "            features.append(0)\n",
+    "    return features\n",
+    "\n",
+    "import re\n",
+    "dfBernoulli = pd.read_csv(\"labeledTrainData.tsv\", sep='\\t')\n",
+    "dfBernoulli.review = list(map(lambda row: re.sub(\"[^a-zA-Z]\", \" \", \n",
+    "                                            BeautifulSoup(row, \"lxml\")\n",
+    "                                                 .get_text().lower()), dfBernoulli.review))\n",
+    "dfBernoulli[\"words\"] = list(map(lambda row: row.split(), dfBernoulli.review))\n",
+    "\n",
+    "# Construcción de la Bolsa de palabras\n",
+    "all_words = nltk.FreqDist(w.lower() for wl in dfBernoulli.words for w in wl)\n",
+    "word_features = list(all_words)[:4000]\n",
+    "\n",
+    "# Vectores de características de la colección de documentos\n",
+    "featuresets = [document_features(d) for d in dfBernoulli[\"words\"]]\n",
+    "\n",
+    "train_set, test_set = featuresets[100:], featuresets[:100]\n",
+    "#targetsets = [c for (d,c) in documents]\n",
+    "targetsets = np.array([int(x) for x in dfBernoulli.sentiment])\n",
+    "train_targetset, test_targetset = targetsets[100:], targetsets[:100]\n",
+    "\n",
+    "# Entrenamiento de un clasificador Bernouilli Bayes ingenuo\n",
+    "clfB = BernoulliNB(alpha=1.0, class_prior=None, fit_prior=False)\n",
+    "clfB.fit(train_set, train_targetset)\n",
+    "\n",
+    "# Pruebas del clasificador\n",
+    "class_predict_train = clfB.predict(train_set)\n",
+    "fails_train = np.sum(train_targetset  != class_predict_train)\n",
+    "print(\"Puntos mal clasificados en el conjunto de entrenamiento: {} de {} ({}%)\\n\"\n",
+    "      .format(fails_train, len(train_set), 100*fails_train/len(train_set)))\n",
+    "class_predict_test = clfB.predict(test_set)\n",
+    "fails_test = np.sum(test_targetset  != class_predict_test)\n",
+    "print(\"Puntos mal clasificados en el conjunto de entrenamiento: {} de {} ({}%)\\n\"\n",
+    "      .format(fails_test, len(test_set), 100*fails_test/len(test_targetset)))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Ejemplo simple de clasificador bayesiano ingenuo multinomial con *tf–idf*\n",
+    "\n",
+    "En el siguiente ejemplo, se repite el ejemplo previo, pero utilizando el modelo multinomial con pesos [*tf–idf*](https://en.wikipedia.org/wiki/Tf–idf) del clasificador bayesiano ingenuo. \n",
+    "\n",
+    "#### tf–idf\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "df = pd.read_csv(\"labeledTrainData.tsv\", sep='\\t')\n",
+    "df.review = list(map(lambda row: BeautifulSoup(row, \"lxml\").get_text(), df.review))\n",
+    "\n",
+    "from sklearn.feature_extraction.text import TfidfVectorizer\n",
+    "input_vectorizer = TfidfVectorizer(stop_words='english', min_df=3, max_df = 0.8)\n",
+    "\n",
+    "Sentiments = np.array([int(x) for x in df.sentiment])\n",
+    "X_data = input_vectorizer.fit_transform(df.review)\n",
+    "\n",
+    "cut = 4 * X_data.shape[0] // 5\n",
+    "train = X_data[:cut]\n",
+    "train_sent = Sentiments[:cut]\n",
+    "test = X_data[cut:]\n",
+    "test_sent = Sentiments[cut:]\n",
+    "\n",
+    "\n",
+    "clfM = MultinomialNB()\n",
+    "\n",
+    "probas = clfM.fit(train, train_sent).predict(train)\n",
+    "correct_predictions = [train_sent[i]==probas[i] for i in range(0,len(probas)-1)]\n",
+    "likelihood = sum(correct_predictions)*100.0/len(probas)\n",
+    "print(sum(correct_predictions), len(probas), likelihood)\n",
+    "\n",
+    "probas2 = clfM.predict(test)\n",
+    "correct_predictions2 = [test_sent[i]==probas2[i] for i in range(0,len(probas2)-1)]\n",
+    "likelihood2 = sum(correct_predictions2)*100.0/len(probas2)\n",
+    "print(sum(correct_predictions2), len(probas2), likelihood2)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<hr style=\"border-width: 3px;\">\n",
+    "\n",
+    "### Tarea 6\n",
+    "\n",
+    "* Realice pruebas de los clasificadores bayesianos ingenuos sobre sus datos.\n",
+    "\n",
+    "**Fecha de entrega**: Martes 4 de octubre."
+   ]
+  }
+ ],
+ "metadata": {
+  "celltoolbar": "Raw Cell Format",
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.5.2"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}

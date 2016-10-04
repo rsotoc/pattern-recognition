@@ -19,4 +19,7 @@ La secuencia de temas sugerida es:
 * [Clustering II](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20II.ipynb). Discusión de los *dendrogramas*: interpretación y construcción.
 * [Clustering III](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20III.ipynb). Presentación de la técnica de agrupamiento *k-means*. 
 * [Clustering IV](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20IV.ipynb). Presentación de la técnica de agrupamiento *ISODATA*.  
+* [Clasificación I](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20I.ipynb). Presentación del tema y clasificador *k vecinos próximos*.
+* [Clasificación II](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20II.ipynb). Clasificadores bayesianos ingenuos.
+* [Clasificación II-B](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20II-B.ipynb). Aplicación de los clasificadores bayesianos ingenuos Bernoulli y multinominal a la clasificación de textos. Discusión del área de minería de opiniones.
 * Mas... ![ ](images/in_process.jpg)

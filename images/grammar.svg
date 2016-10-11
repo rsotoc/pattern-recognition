@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="726.67761"
+   height="391.80539"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="grammar.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3638867"
+     inkscape:cx="319.49398"
+     inkscape:cy="317.26778"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1274"
+     inkscape:window-height="738"
+     inkscape:window-x="533"
+     inkscape:window-y="131"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-598.03007,-476.80611)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text3834"
+       y="749.23834"
+       x="831.66565"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+       inkscape:export-xdpi="76.058716"
+       inkscape:export-ydpi="76.058716"><tspan
+         y="749.23834"
+         x="831.66565"
+         id="tspan3836"
+         sodipodi:role="line" /></text>
+    <g
+       id="g2710"
+       transform="matrix(0.7724272,0,0,0.7724272,136.09538,108.5081)">
+      <path
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 830.79453,766.36229 0,73.55902"
+         id="path3563"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 852.43923,765.28276 95.01649,32.38465"
+         id="path3565"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 809.74203,764.88445 -93.0165,32.38466"
+         id="path3567"
+         inkscape:connector-curvature="0" />
+      <ellipse
+         transform="matrix(0.9847574,0,0,1.2922029,533.88647,289.10909)"
+         id="path3569"
+         style="fill:#d5e5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.59200001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3571"
+         y="505.09656"
+         x="852.69073"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="505.09656"
+           x="852.69073"
+           id="tspan3573"
+           sodipodi:role="line"
+           style="font-size:16px">Regla raíz</tspan><tspan
+           y="525.09656"
+           x="852.69073"
+           sodipodi:role="line"
+           id="tspan3575"
+           style="font-size:16px">0</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9847575,0,0,1.5583508,332.09113,306.50816)"
+         id="path3577"
+         style="fill:#d5e5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 874.35081,528.50045 48.623,76.04479"
+         id="path3585"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 832.66688,527.10804 -27.3116,41.79041"
+         id="path3587"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 808.89323,517.52031 698.86916,551.60872"
+         id="path3589"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1021.8295,548.37188 898.82293,517.52031"
+         id="path3591"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0" />
+      <text
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="651.31787"
+         y="560.25989"
+         id="text3593"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3595"
+           x="651.31787"
+           y="560.25989">Regla 00</tspan><tspan
+           id="tspan3718"
+           sodipodi:role="line"
+           x="651.31787"
+           y="580.25989">[Chocolate]</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9847575,0,0,1.5583508,470.61254,340.90262)"
+         id="path3734"
+         style="fill:#d5e5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <text
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="789.88928"
+         y="594.04498"
+         id="text3601"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3603"
+           x="789.88928"
+           y="594.04498">Regla 01</tspan><tspan
+           id="tspan3724"
+           sodipodi:role="line"
+           x="789.88928"
+           y="614.04498">[Vainilla]</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9847575,0,0,1.5583508,745.74756,306.50816)"
+         id="path3736"
+         style="fill:#d5e5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <text
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1064.8798"
+         y="560.25989"
+         id="text3605"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3607"
+           x="1064.8798"
+           y="560.25989">Regla 03</tspan><tspan
+           id="tspan3726"
+           sodipodi:role="line"
+           x="1064.8798"
+           y="580.25989">[Fresa]</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9847575,0,0,1.1566331,512.72113,669.67642)"
+         id="path3609"
+         style="fill:#d5e5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <text
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="831.5448"
+         y="857.53296"
+         id="text3611"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3613"
+           x="834.09167"
+           y="857.53296">Regla </tspan><tspan
+           id="tspan3615"
+           sodipodi:role="line"
+           x="831.5448"
+           y="877.53296">022</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9847575,0,0,1.1566331,629.05811,627.67642)"
+         id="path3617"
+         style="fill:#d5e5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <text
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="947.8819"
+         y="815.53296"
+         id="text3619"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3621"
+           x="950.42877"
+           y="815.53296">Regla </tspan><tspan
+           id="tspan3623"
+           sodipodi:role="line"
+           x="947.8819"
+           y="835.53296">023</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9847575,0,0,1.1566331,396.38413,627.67642)"
+         id="path3681"
+         style="fill:#d5e5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <text
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="715.20776"
+         y="815.53296"
+         id="text3683"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3685"
+           x="717.75464"
+           y="815.53296">Regla </tspan><tspan
+           id="tspan3687"
+           sodipodi:role="line"
+           x="715.20776"
+           y="835.53296">021</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3691"
+         y="506.98431"
+         x="1216.9503"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="506.98431"
+           x="1216.9503"
+           id="tspan3693"
+           sodipodi:role="line">[Nodos sin pregunta]</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         id="path3695"
+         d="m 914.25413,501.42388 290.99657,0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(58.138366,4.115)"
+         id="g3713">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1159.141"
+           y="638.5874"
+           id="text3697"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3699"
+             x="1159.141"
+             y="638.5874">[¿Su sabor favorito de pudín</tspan><tspan
+             id="tspan3738"
+             sodipodi:role="line"
+             x="1159.141"
+             y="661.0874">es la tapioca?]</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 932.4447,633.02697 214.9965,0"
+           id="path3701"
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(-87.020197,566.99315)"
+         id="g3703">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="1303.9049"
+           y="301.46814"
+           id="text3705"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3707"
+             x="1303.9049"
+             y="301.46814">[¿Usted considera que hay que </tspan><tspan
+             id="tspan3875"
+             sodipodi:role="line"
+             x="1303.9049"
+             y="323.96814">mejorar algún aspecto de la </tspan><tspan
+             id="tspan3709"
+             sodipodi:role="line"
+             x="1303.9049"
+             y="346.46814">presentación del budín de tapioca?]</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 977.2087,295.9077 314.9965,0"
+           id="path3711"
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0" />
+      </g>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9847575,0,0,1.0541656,512.53345,569.49016)"
+         id="path3832"
+         style="opacity:0.23371648;fill:#e3dbdb;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3838"
+         y="748.76862"
+         x="1216.6906"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="748.76862"
+           x="1216.6906"
+           sodipodi:role="line"
+           id="tspan3842">[Nodos en blanco implícitos]</tspan></text>
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path3844"
+         d="m 889.72452,742.84395 312.81178,0 -85.1835,-24.30021"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 929.98529,667.48926 -92.08768,56.10325"
+         id="path3848"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3850"
+         y="705.72711"
+         x="845.99347"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:14px"
+           y="705.72711"
+           x="845.99347"
+           id="tspan3852"
+           sodipodi:role="line">Si</tspan></text>
+      <path
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 929.8063,667.48926 93.1788,25.83139"
+         id="path3860"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3863"
+         y="681.72711"
+         x="1012.0038"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:14px"
+           y="681.72711"
+           x="1012.0038"
+           id="tspan3865"
+           sodipodi:role="line">No</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9839402,0,0,1.1898815,752.528,506.6735)"
+         id="path3867"
+         style="opacity:0.23371648;fill:#e3dbdb;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <text
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1071.3953"
+         y="696.09064"
+         id="text3869"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3871"
+           x="1073.9421"
+           y="696.09064">Fin de </tspan><tspan
+           id="tspan3873"
+           sodipodi:role="line"
+           x="1071.3953"
+           y="716.09064">trayectoria</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9847575,0,0,1.5583508,612.53345,378.6295)"
+         id="path3720"
+         style="fill:#d5e5ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <text
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="933.65485"
+         y="631.17218"
+         id="text3597"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3599"
+           x="933.65485"
+           y="631.17218">Regla 02</tspan><tspan
+           id="tspan3722"
+           sodipodi:role="line"
+           x="933.65485"
+           y="651.17218">[Tapioca]</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9847575,0,0,1.0541656,404.3681,786.38787)"
+         id="path3881"
+         style="opacity:0.23371648;fill:#e3dbdb;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <path
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 821.81998,884.38697 -92.0877,56.10323"
+         id="path3887"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3889"
+         y="922.62482"
+         x="737.82806"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:14px"
+           y="922.62482"
+           x="737.82806"
+           id="tspan3891"
+           sodipodi:role="line">Si</tspan></text>
+      <path
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.42822444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 821.00962,885.30808 93.1788,25.83139"
+         id="path3905"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3907"
+         y="899.5459"
+         x="903.20703"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:14px"
+           y="899.5459"
+           x="903.20703"
+           id="tspan3909"
+           sodipodi:role="line">No</tspan></text>
+      <ellipse
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         transform="matrix(0.9839402,0,0,1.1898815,643.73133,724.49232)"
+         id="path3911"
+         style="opacity:0.23371648;fill:#e3dbdb;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.40177202;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="324.21469"
+         cy="166.02701"
+         rx="54.159431"
+         ry="20.773481" />
+      <text
+         inkscape:export-ydpi="76.058716"
+         inkscape:export-xdpi="76.058716"
+         inkscape:export-filename="C:\Users\Ramon Soto\Desktop\Software móvil\moviQuest\grammar.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="962.59851"
+         y="913.90942"
+         id="text3913"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3915"
+           x="965.14539"
+           y="913.90942">Fin de </tspan><tspan
+           id="tspan3917"
+           sodipodi:role="line"
+           x="962.59851"
+           y="933.90942">trayectoria</tspan></text>
+    </g>
+    <g
+       id="g2810-2"
+       transform="translate(997.9053,-285.90615)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1172.2007"
+       y="346.95557"
+       id="text3487"
+       sodipodi:linespacing="125%"
+       transform="translate(-254.42649,10.183418)"><tspan
+         sodipodi:role="line"
+         id="tspan3489"
+         x="1172.2007"
+         y="346.95557" /><tspan
+         sodipodi:role="line"
+         id="tspan3491"
+         x="1172.2007"
+         y="361.95557" /></text>
+  </g>
+</svg>

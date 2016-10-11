@@ -48,7 +48,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.440834"
-     inkscape:cx="339.81232"
+     inkscape:cx="199.96276"
      inkscape:cy="170.49337"
      inkscape:window-x="32"
      inkscape:window-y="42"
@@ -1702,7 +1702,9 @@ Plot created with mplwp, the Matplotlib extension for Wikipedia plots.</desc>
      x="440.97287"
      y="80.524803"
      id="text9590"
-     sodipodi:linespacing="125%"><tspan
+     sodipodi:linespacing="125%"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
        sodipodi:role="line"
        id="tspan9592"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;stroke-linecap:butt;stroke-linejoin:round"

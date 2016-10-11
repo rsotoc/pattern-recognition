@@ -16,7 +16,10 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="grammar.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   version="1.0">
+   version="1.0"
+   inkscape:export-filename="/Users/rsotoc/Dropbox/pattern-recognition/images/grammar.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -35,15 +38,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3638867"
-     inkscape:cx="319.49398"
-     inkscape:cy="317.26778"
+     inkscape:cx="569.51475"
+     inkscape:cy="-5.3396624"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1274"
      inkscape:window-height="738"
-     inkscape:window-x="533"
-     inkscape:window-y="131"
+     inkscape:window-x="105"
+     inkscape:window-y="77"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
@@ -59,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

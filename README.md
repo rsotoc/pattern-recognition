@@ -19,7 +19,11 @@ La secuencia de temas sugerida es:
 * [Clustering II](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20II.ipynb). Discusión de los *dendrogramas*: interpretación y construcción.
 * [Clustering III](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20III.ipynb). Presentación de la técnica de agrupamiento *k-means*. 
 * [Clustering IV](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20IV.ipynb). Presentación de la técnica de agrupamiento *ISODATA*.  
-* [Clasificación I](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20I.ipynb). Presentación del tema y clasificador *k vecinos próximos*.
-* [Clasificación II](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20II.ipynb). Clasificadores bayesianos ingenuos.
+* [Clasificación I](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20I.ipynb). Presentación del tema y del clasificador *k vecinos próximos*.
+* [Clasificación II](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20II.ipynb).  Presentación de clasificadores bayesianos ingenuos.
 * [Clasificación II-B](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20II-B.ipynb). Aplicación de los clasificadores bayesianos ingenuos Bernoulli y multinominal a la clasificación de textos. Discusión del área de minería de opiniones.
+* [Clasificación III](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20III.ipynb). Presentación de los clasificadores por árboles de decisión.
+* [Clasificación IV](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20IV.ipynb).  Presentación de las máquinas de vectores de soporte (*Support Vector Machines* - SVM).
+* [Clasificación V](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20V.ipynb). Introducción a los métodos de clasificación del área de Inteligencia Artificial, discusión del uso de metáforas en *machine learning* y de la metáfora neuronal.
+* [Clasificación V-B](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20V-B.ipynb). Presentación de las redes neuronales *feed-forward* y del método de entrenamiento *backpropagation*.
 * Mas... ![ ](images/in_process.jpg)

@@ -25,4 +25,4 @@ La secuencia de temas sugerida es:
 * [Clasificación III](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20III.ipynb). Presentación de los clasificadores por árboles de decisión.
 * [Clasificación IV](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20IV.ipynb).  Presentación de las máquinas de vectores de soporte (*Support Vector Machines* - SVM).
 * [Clasificación V](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20V.ipynb). Introducción a los métodos de clasificación del área de Inteligencia Artificial, discusión del uso de metáforas en *machine learning* y de la metáfora neuronal, incluyendo la presentación de la neurona de McCulloch-Pitts, el Perceptrón, la Adaline y las redes Feed-Forward.
-* Mas... ![ ](images/in_process.jpg)
+* Mas... en 2017![ ](images/in_process.jpg)

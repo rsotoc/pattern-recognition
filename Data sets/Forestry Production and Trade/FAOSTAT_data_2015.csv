@@ -1,0 +1,207 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1627,"Wood fuel, coniferous (production)",2015,2015,m3,1.1658551E7,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1628,"Wood fuel, non-coniferous (production)",2015,2015,m3,2.7197687E7,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1629,"Wood fuel, all species (export/import)",2015,2015,m3,449.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1629,"Wood fuel, all species (export/import)",2015,2015,1000 US$,49.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1629,"Wood fuel, all species (export/import)",2015,2015,m3,9608.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1629,"Wood fuel, all species (export/import)",2015,2015,1000 US$,1253.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1651,"Industrial roundwood, coniferous (export/import)",2015,2015,m3,85407.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1651,"Industrial roundwood, coniferous (export/import)",2015,2015,1000 US$,5210.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1651,"Industrial roundwood, coniferous (export/import)",2015,2015,m3,5577.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1651,"Industrial roundwood, coniferous (export/import)",2015,2015,1000 US$,296.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1657,"Industrial roundwood, non-coniferous tropical (export/import)",2015,2015,m3,128.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1657,"Industrial roundwood, non-coniferous tropical (export/import)",2015,2015,1000 US$,91.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1657,"Industrial roundwood, non-coniferous tropical (export/import)",2015,2015,m3,5695.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1657,"Industrial roundwood, non-coniferous tropical (export/import)",2015,2015,1000 US$,1768.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1670,"Industrial roundwood, non-coniferous non-tropical (export/import)",2015,2015,m3,188.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1670,"Industrial roundwood, non-coniferous non-tropical (export/import)",2015,2015,1000 US$,1130.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1670,"Industrial roundwood, non-coniferous non-tropical (export/import)",2015,2015,m3,66734.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1670,"Industrial roundwood, non-coniferous non-tropical (export/import)",2015,2015,1000 US$,7274.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1601,"Sawlogs and veneer logs, coniferous",2015,2015,m3,4124000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1604,"Sawlogs and veneer logs, non-coniferous",2015,2015,m3,426000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1602,"Pulpwood, round and split, coniferous (production)",2015,2015,m3,365000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1603,"Pulpwood, round and split, non-coniferous (production)",2015,2015,m3,49000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1623,"Other industrial roundwood, coniferous (production)",2015,2015,m3,252000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1626,"Other industrial roundwood, non-coniferous (production)",2015,2015,m3,137000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1630,Wood charcoal,2015,2015,tonnes,82000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1630,Wood charcoal,2015,2015,tonnes,1188.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1630,Wood charcoal,2015,2015,1000 US$,947.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1630,Wood charcoal,2015,2015,tonnes,92583.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1630,Wood charcoal,2015,2015,1000 US$,32740.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1619,Wood chips and particles,2015,2015,m3,254000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1619,Wood chips and particles,2015,2015,m3,305.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1619,Wood chips and particles,2015,2015,1000 US$,243.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1619,Wood chips and particles,2015,2015,m3,698.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1619,Wood chips and particles,2015,2015,1000 US$,551.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1620,Wood residues,2015,2015,m3,2848.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1620,Wood residues,2015,2015,1000 US$,967.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1620,Wood residues,2015,2015,m3,21174.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1620,Wood residues,2015,2015,1000 US$,833.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1693,Wood pellets,2015,2015,tonnes,4000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1693,Wood pellets,2015,2015,tonnes,13.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1693,Wood pellets,2015,2015,1000 US$,8.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1693,Wood pellets,2015,2015,tonnes,2898.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1693,Wood pellets,2015,2015,1000 US$,194.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1694,Other agglomerates,2015,2015,tonnes,1042.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1694,Other agglomerates,2015,2015,1000 US$,4586.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1694,Other agglomerates,2015,2015,tonnes,52.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1694,Other agglomerates,2015,2015,1000 US$,194.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1632,"Sawnwood, coniferous",2015,2015,m3,2248000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1632,"Sawnwood, coniferous",2015,2015,m3,1350000.0,*,Unofficial figure
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1632,"Sawnwood, coniferous",2015,2015,1000 US$,364704.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1632,"Sawnwood, coniferous",2015,2015,m3,12821.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1632,"Sawnwood, coniferous",2015,2015,1000 US$,6063.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1633,"Sawnwood, non-coniferous all",2015,2015,m3,223000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1633,"Sawnwood, non-coniferous all",2015,2015,m3,426000.0,*,Unofficial figure
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1633,"Sawnwood, non-coniferous all",2015,2015,1000 US$,180098.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1633,"Sawnwood, non-coniferous all",2015,2015,m3,4815.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1633,"Sawnwood, non-coniferous all",2015,2015,1000 US$,4422.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1634,Veneer sheets,2015,2015,m3,300000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1634,Veneer sheets,2015,2015,m3,38526.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1634,Veneer sheets,2015,2015,1000 US$,76783.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1634,Veneer sheets,2015,2015,m3,2932.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1634,Veneer sheets,2015,2015,1000 US$,2311.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1640,Plywood,2015,2015,m3,111000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1640,Plywood,2015,2015,m3,911293.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1640,Plywood,2015,2015,1000 US$,323509.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1640,Plywood,2015,2015,m3,17759.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1640,Plywood,2015,2015,1000 US$,5826.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1646,Particle board and OSB,2015,2015,m3,754000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1646,Particle board and OSB,2015,2015,m3,143016.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1646,Particle board and OSB,2015,2015,1000 US$,34857.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1646,Particle board and OSB,2015,2015,m3,17136.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1646,Particle board and OSB,2015,2015,1000 US$,4167.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1606,OSB,2015,2015,m3,56839.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1606,OSB,2015,2015,1000 US$,20724.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1606,OSB,2015,2015,m3,4163.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1606,OSB,2015,2015,1000 US$,1974.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1647,Hardboard,2015,2015,m3,35000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1647,Hardboard,2015,2015,m3,19651.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1647,Hardboard,2015,2015,1000 US$,16069.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1647,Hardboard,2015,2015,m3,51.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1647,Hardboard,2015,2015,1000 US$,58.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1648,MDF/HDF,2015,2015,m3,29000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1648,MDF/HDF,2015,2015,m3,529000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1648,MDF/HDF,2015,2015,1000 US$,193709.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1648,MDF/HDF,2015,2015,m3,1700.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1648,MDF/HDF,2015,2015,1000 US$,1910.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5516,Production,1650,Other fibreboard,2015,2015,m3,0.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5616,Import Quantity,1650,Other fibreboard,2015,2015,m3,66000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1650,Other fibreboard,2015,2015,1000 US$,14167.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5916,Export Quantity,1650,Other fibreboard,2015,2015,m3,1625.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1650,Other fibreboard,2015,2015,1000 US$,257.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1654,Mechanical wood pulp,2015,2015,tonnes,0.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1654,Mechanical wood pulp,2015,2015,tonnes,1382.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1654,Mechanical wood pulp,2015,2015,1000 US$,459.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1654,Mechanical wood pulp,2015,2015,tonnes,1.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1654,Mechanical wood pulp,2015,2015,1000 US$,0.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1655,Semi-chemical wood pulp,2015,2015,tonnes,0.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1655,Semi-chemical wood pulp,2015,2015,tonnes,41306.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1655,Semi-chemical wood pulp,2015,2015,1000 US$,24207.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1655,Semi-chemical wood pulp,2015,2015,tonnes,6.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1655,Semi-chemical wood pulp,2015,2015,1000 US$,24.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1656,Chemical wood pulp,2015,2015,tonnes,136000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1656,Chemical wood pulp,2015,2015,tonnes,814333.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1656,Chemical wood pulp,2015,2015,1000 US$,549208.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1656,Chemical wood pulp,2015,2015,tonnes,55.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1656,Chemical wood pulp,2015,2015,1000 US$,50.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1662,"Chemical wood pulp, sulphate, unbleached",2015,2015,tonnes,40000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1662,"Chemical wood pulp, sulphate, unbleached",2015,2015,tonnes,5109.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1662,"Chemical wood pulp, sulphate, unbleached",2015,2015,1000 US$,3652.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1662,"Chemical wood pulp, sulphate, unbleached",2015,2015,tonnes,0.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1662,"Chemical wood pulp, sulphate, unbleached",2015,2015,1000 US$,0.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1663,"Chemical wood pulp, sulphate, bleached",2015,2015,tonnes,96000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1663,"Chemical wood pulp, sulphate, bleached",2015,2015,tonnes,809004.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1663,"Chemical wood pulp, sulphate, bleached",2015,2015,1000 US$,545284.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1663,"Chemical wood pulp, sulphate, bleached",2015,2015,tonnes,55.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1663,"Chemical wood pulp, sulphate, bleached",2015,2015,1000 US$,50.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1660,"Chemical wood pulp, sulphite, unbleached",2015,2015,tonnes,0.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1660,"Chemical wood pulp, sulphite, unbleached",2015,2015,tonnes,0.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1660,"Chemical wood pulp, sulphite, unbleached",2015,2015,1000 US$,0.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1661,"Chemical wood pulp, sulphite, bleached",2015,2015,tonnes,0.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1661,"Chemical wood pulp, sulphite, bleached",2015,2015,tonnes,220.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1661,"Chemical wood pulp, sulphite, bleached",2015,2015,1000 US$,272.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1667,Dissolving wood pulp,2015,2015,tonnes,123000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1667,Dissolving wood pulp,2015,2015,tonnes,35169.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1667,Dissolving wood pulp,2015,2015,1000 US$,49076.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1667,Dissolving wood pulp,2015,2015,tonnes,106.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1667,Dissolving wood pulp,2015,2015,1000 US$,114.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1668,Pulp from fibres other than wood,2015,2015,tonnes,17000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1668,Pulp from fibres other than wood,2015,2015,tonnes,3637.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1668,Pulp from fibres other than wood,2015,2015,1000 US$,4503.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1668,Pulp from fibres other than wood,2015,2015,tonnes,6.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1668,Pulp from fibres other than wood,2015,2015,1000 US$,8.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1609,Recovered fibre pulp,2015,2015,tonnes,2889000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1609,Recovered fibre pulp,2015,2015,tonnes,3457.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1609,Recovered fibre pulp,2015,2015,1000 US$,1756.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1609,Recovered fibre pulp,2015,2015,tonnes,3.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1609,Recovered fibre pulp,2015,2015,1000 US$,3.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1669,Recovered paper,2015,2015,tonnes,3223000.0,F,FAO estimate
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1669,Recovered paper,2015,2015,tonnes,1384800.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1669,Recovered paper,2015,2015,1000 US$,333420.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1669,Recovered paper,2015,2015,tonnes,436380.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1669,Recovered paper,2015,2015,1000 US$,61621.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1671,Newsprint,2015,2015,tonnes,128000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1671,Newsprint,2015,2015,tonnes,179079.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1671,Newsprint,2015,2015,1000 US$,104366.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1671,Newsprint,2015,2015,tonnes,357.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1671,Newsprint,2015,2015,1000 US$,235.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1674,Printing and writing papers,2015,2015,tonnes,606000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1674,Printing and writing papers,2015,2015,tonnes,869487.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1674,Printing and writing papers,2015,2015,1000 US$,790221.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1674,Printing and writing papers,2015,2015,tonnes,26818.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1674,Printing and writing papers,2015,2015,1000 US$,43297.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1612,"Printing and writing papers, uncoated, mechanical",2015,2015,tonnes,57054.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1612,"Printing and writing papers, uncoated, mechanical",2015,2015,1000 US$,54847.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1612,"Printing and writing papers, uncoated, mechanical",2015,2015,tonnes,1826.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1612,"Printing and writing papers, uncoated, mechanical",2015,2015,1000 US$,1953.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1615,"Printing and writing papers, uncoated, wood free",2015,2015,tonnes,0.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1615,"Printing and writing papers, uncoated, wood free",2015,2015,tonnes,273747.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1615,"Printing and writing papers, uncoated, wood free",2015,2015,1000 US$,241532.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1615,"Printing and writing papers, uncoated, wood free",2015,2015,tonnes,12746.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1615,"Printing and writing papers, uncoated, wood free",2015,2015,1000 US$,12744.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1616,"Printing and writing papers, coated",2015,2015,tonnes,606000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1616,"Printing and writing papers, coated",2015,2015,tonnes,538686.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1616,"Printing and writing papers, coated",2015,2015,1000 US$,493842.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1616,"Printing and writing papers, coated",2015,2015,tonnes,12246.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1616,"Printing and writing papers, coated",2015,2015,1000 US$,28600.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1675,Other paper and paperboard,2015,2015,tonnes,4582000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1675,Other paper and paperboard,2015,2015,tonnes,2254238.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1675,Other paper and paperboard,2015,2015,1000 US$,1887871.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1675,Other paper and paperboard,2015,2015,tonnes,159560.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1675,Other paper and paperboard,2015,2015,1000 US$,165718.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1676,Household and sanitary papers,2015,2015,tonnes,1120000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1676,Household and sanitary papers,2015,2015,tonnes,67663.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1676,Household and sanitary papers,2015,2015,1000 US$,89692.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1676,Household and sanitary papers,2015,2015,tonnes,86292.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1676,Household and sanitary papers,2015,2015,1000 US$,93185.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1681,Wrapping and packaging paper and paperboard,2015,2015,tonnes,3418000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1681,Wrapping and packaging paper and paperboard,2015,2015,tonnes,2144010.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1681,Wrapping and packaging paper and paperboard,2015,2015,1000 US$,1757057.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1681,Wrapping and packaging paper and paperboard,2015,2015,tonnes,65219.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1681,Wrapping and packaging paper and paperboard,2015,2015,1000 US$,64034.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1617,Case materials,2015,2015,tonnes,2756000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1617,Case materials,2015,2015,tonnes,1054997.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1617,Case materials,2015,2015,1000 US$,654099.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1617,Case materials,2015,2015,tonnes,3634.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1617,Case materials,2015,2015,1000 US$,2196.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1618,Cartonboard,2015,2015,tonnes,505000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1618,Cartonboard,2015,2015,tonnes,587594.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1618,Cartonboard,2015,2015,1000 US$,555492.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1618,Cartonboard,2015,2015,tonnes,32790.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1618,Cartonboard,2015,2015,1000 US$,25171.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1621,Wrapping papers,2015,2015,tonnes,157000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1621,Wrapping papers,2015,2015,tonnes,485217.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1621,Wrapping papers,2015,2015,1000 US$,527222.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1621,Wrapping papers,2015,2015,tonnes,28550.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1621,Wrapping papers,2015,2015,1000 US$,36545.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1622,Other papers mainly for packaging,2015,2015,tonnes,0.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1622,Other papers mainly for packaging,2015,2015,tonnes,16202.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1622,Other papers mainly for packaging,2015,2015,1000 US$,20244.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1622,Other papers mainly for packaging,2015,2015,tonnes,245.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1622,Other papers mainly for packaging,2015,2015,1000 US$,122.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5510,Production,1683,Other paper and paperboard n.e.s. (not elsewhere specified),2015,2015,tonnes,44000.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5610,Import Quantity,1683,Other paper and paperboard n.e.s. (not elsewhere specified),2015,2015,tonnes,42565.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5622,Import Value,1683,Other paper and paperboard n.e.s. (not elsewhere specified),2015,2015,1000 US$,41122.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5910,Export Quantity,1683,Other paper and paperboard n.e.s. (not elsewhere specified),2015,2015,tonnes,8049.0,,Official data
+FO,Forestry Production and Trade,138,Mexico,5922,Export Value,1683,Other paper and paperboard n.e.s. (not elsewhere specified),2015,2015,1000 US$,8499.0,,Official data

@@ -106,7 +106,7 @@ elapsed_time = time.time() - start_time
 
 
 bigrams_train, bigrams_test, biy_train, biy_test = train_test_split(
-    featuresets_bigrams, Sentiments, test_size=0.2)
+    featuresets_bigrams, Sentiments, test_size=0.1)
 
 # Entrenamiento de un clasificador Multinomial Bayes ingenuo
 clfM = MultinomialNB()
@@ -117,8 +117,8 @@ print(elapsed_time)
 predictions_train = clfM.predict(bigrams_train)
 fails_train = sum(biy_train  != predictions_train)
 print("Puntos mal clasificados en el conjunto de entrenamiento: {} de {} ({}%)\n"
-      .format(fails_train, bigrams_train.shape[0], 100*fails_train/len(bigrams_train)))
+      .format(fails_train, len(bigrams_train), 100*fails_train/len(bigrams_train)))
 predictions_test = clfM.predict(bigrams_test)
 fails_test = sum(biy_test  != predictions_test)
 print("Puntos mal clasificados en el conjunto de prueba: {} de {} ({}%)\n"
-      .format(fails_test, bigrams_test.shape[0], 100*fails_test/len(bigrams_test)))
+      .format(fails_test, len(bigrams_test), 100*fails_test/len(bigrams_test)))

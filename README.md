@@ -19,10 +19,15 @@ La secuencia de temas sugerida es:
 * [Clustering II](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20II.ipynb). Discusión de los *dendrogramas*: interpretación y construcción.
 * [Clustering III](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20III.ipynb). Presentación de la técnica de agrupamiento *k-means*. 
 * [Clustering IV](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20IV.ipynb). Presentación de la técnica de agrupamiento *ISODATA*.  
+* [Clustering V](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20V.ipynb). Presentación de la técnica de agrupamiento *DBSCAN*.  
+* [Clustering VI](https://github.com/rsotoc/pattern-recognition/blob/master/Clustering%20VI.ipynb). Presentación de una comparación entre técncias de agrupamiento.
 * [Clasificación I](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20I.ipynb). Presentación del tema y del clasificador *k vecinos próximos*.
-* [Clasificación II](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20II.ipynb).  Presentación de clasificadores bayesianos ingenuos.
+* [Limpieza de datos III](https://github.com/rsotoc/pattern-recognition/blob/master/Limpieza%20de%20datos%20III.ipynb). Continuación al tema de limpieza de datos. Se discuten temas como la normalización de datos y evaluación de independencia, componentes pricnipales. Se discute también el manejo de datos faltantes con técncias inteligentes.
+* [Clasificación II](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20II.ipynb). Presentación de clasificadores bayesianos ingenuos.
 * [Clasificación II-B](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20II-B.ipynb). Aplicación de los clasificadores bayesianos ingenuos Bernoulli y multinominal a la clasificación de textos. Discusión del área de minería de opiniones.
 * [Clasificación III](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20III.ipynb). Presentación de los clasificadores por árboles de decisión.
 * [Clasificación IV](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20IV.ipynb).  Presentación de las máquinas de vectores de soporte (*Support Vector Machines* - SVM).
 * [Clasificación V](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20V.ipynb). Introducción a los métodos de clasificación del área de Inteligencia Artificial, discusión del uso de metáforas en *machine learning* y de la metáfora neuronal, incluyendo la presentación de la neurona de McCulloch-Pitts, el Perceptrón, la Adaline y las redes Feed-Forward.
-* Mas... en 2017![ ](images/in_process.jpg)
+* [Clasificación VI](https://github.com/rsotoc/pattern-recognition/blob/master/Clasificaci%C3%B3n%20VI.ipynb). Introducción a los métodos de reconocimiento de patrones bajo el enfoque sintáctico. Se introduce el uso de gramáticas para el reconocimiento de patrones en lenguaje natural y en imágenes. Se hace una introducción al área de procesamiento de lenguaje natural.
+
+* Mas... en un futuro![ ](images/in_process.jpg)

@@ -13,7 +13,7 @@ Iremos agregando lecciónes conforme avance el curso.
 
 La secuencia de temas sugerida es:
 
-* [Intro 1. Bases cognitivas](https://github.com/rsotoc/pattern-recognition/blob/master/Intro%201.%20Bases%20cognitivas.ipynb). Una introducción al tema, enfatizando el reconocimiento de patrones como habilidad natural.
+* [Intro 1. Bases cognitivas](https://github.com/rsotoc/pattern-recognition/blob/master/Intro%201.%20Bases%20cognitivas.pdf). Una introducción al tema, enfatizando el reconocimiento de patrones como habilidad natural.
 * [Intro 2. Bases matemáticas](https://github.com/rsotoc/pattern-recognition/blob/master/Intro%202.%20Bases%20matemáticas.ipynb). Sólo por no encontrar un mejor nombre :-), pero es básicamente una discusión de cómo buscamos sistematizar las tareas de RP, *vectores de características* y discusión inicial de algunos conjuntos de datos de prueba, particularmente el *Pima Indians Diabetes Data Set*. También algunos elementos útiles de Python para análisis de datos.
 * [Limpieza de datos I](https://github.com/rsotoc/pattern-recognition/blob/master/Limpieza%20de%20datos%20I.ipynb). Introducción al tema de *preparación de datos*, con énfasis en la *limpieza*. Se analiza el caso de tratamiento de *valores faltantes*.
 * [Limpieza de datos II](https://github.com/rsotoc/pattern-recognition/blob/master/Limpieza%20de%20datos%20II.ipynb). Continuación al tema de limpieza de datos. Se discuten el tratamiento a *valores atípicos* y *valores inconsistentes*.
